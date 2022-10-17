@@ -1,8 +1,8 @@
 ---
 layout: post
+title: Call for papers
+description: PACT 2023 call for papers
 ---
-
- # Call for papers
 
 PACT 2023 will be held in **Vienna, Austria**, in the Fall of 2023.
 

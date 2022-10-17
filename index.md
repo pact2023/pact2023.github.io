@@ -9,4 +9,4 @@ layout: home
 
 Dates: Sep or Oct 2023 (to be finalized)
 
-[Call for papers](cfp,html)
+[Call for papers](cfp.html)
