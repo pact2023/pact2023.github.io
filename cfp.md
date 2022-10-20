@@ -51,6 +51,8 @@ Paper submissions are due **April 1, 2023** by posting on the conference [submis
 * Please make sure that the labels on your graphs are readable without the aid of a magnifying glass.
 * The paper must be submitted in PDF. We cannot accept any other format, and we must be able to print the document just as we receive it. We suggest that you use only the four widely used printer fonts: Times, Helvetica, Courier and Symbol.
 
+Poster submissions must conform to the same format restrictions, but may not exceed 2 pages in length. Paper submissions that are not accepted for regular presentations will automatically be considered for posters; authors who do not want their paper considered for the poster session should indicate this in their abstract submission. Two-page summaries of accepted posters will be included in the conference proceedings.
+
 Please submit your work via the conference [submission site](https://pact23.hotcrp.com/).
 
 
