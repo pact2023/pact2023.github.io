@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PACT 2023
-email: pact2023@googlegroups.com # to be replaced by the web chair email
+title:       PACT 2023
+email:       pact2023@googlegroups.com # to be replaced by the web chair email
 description: >- # this means to ignore newlines until "baseurl:"
   The 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT) 2023
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:     "" # the subpath of your site, e.g. /blog
+url:         "https://pact2023.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
