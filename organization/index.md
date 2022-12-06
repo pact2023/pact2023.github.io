@@ -49,7 +49,7 @@ Fabian Gruber, arm
 
 - [Erik Altman](https://researcher.watson.ibm.com/researcher/view.php?person=us-ealtman), IBM
 - [Albert Cohen](https://research.google/people/106208/), Google, France
-- [Michel Cosnard](http://www-sop.inria.fr/members/Michel.Cosnard/)Â INRIA, France
+- [Michel Cosnard](http://www-sop.inria.fr/members/Michel.Cosnard/), INRIA, France
 - [Kemal Ebcioglu](http://global-supercomputing.com/people/kemal.ebcioglu/) Global Supercomputing Corp., USA
 - [Skevos Evripidou](https://cy.linkedin.com/in/skevos-evripidou-55a7b2), U. Cyprus, Cyprus
 - [Jean Luc Gaudiot](http://pascal.eng.uci.edu/people/gaudiot.html), UC Irvine, USA
