@@ -14,6 +14,7 @@ show_sidebar: true
 **Program Chair:**<br>
 [Calin Cascaval](https://conf.researchr.org/profile/conf/calincascaval), Google
 
+
 **Financial Chair:**<br>
 [Ewa Vesely](https://informatics.tuwien.ac.at/people/ewa-vesely), TU Wien
 
@@ -23,11 +24,15 @@ show_sidebar: true
 **Workshop/Tutorial Chair:**<br>
 [Manoj Kumar](https://www.linkedin.com/in/manoj-kumar-3a06902/), IBM
 
+-->
+
 **Publicity Co-Chairs:**
 
-- Europe: [Alexandra Jimborean](https://webs.um.es/alexandra.jimborean/miwiki/doku.php), U. Murcia
+- Europe: [Juan Manuel Cebrian](https://es.linkedin.com/in/juan-m-cebrian-46245063), U. Murcia
 - Asia: [Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/member/yokota.html), Tokyo Institute of Technology
 - Americas: [Hari Sundar](https://www.cs.utah.edu/~hari/), U. Utah
+
+<!--
 
 **ACM Student Research Competition Chair:**<br>
 [Saugata Ghose](https://ghose.cs.illinois.edu/), U. Illinois
