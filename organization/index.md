@@ -14,6 +14,8 @@ show_sidebar: true
 **Program Chair:**<br>
 [Calin Cascaval](https://conf.researchr.org/profile/conf/calincascaval), Google
 
+**Student Travel Grant Chair:**<br>
+[Sepideh Maleki](https://www.cs.utexas.edu/~smaleki/), U. Texas at Austin
 
 **Financial Chair:**<br>
 [Ewa Vesely](https://informatics.tuwien.ac.at/people/ewa-vesely), TU Wien
