@@ -39,9 +39,8 @@ id:    home
 
             <!-- sidebar -->
             <div class="col-md-4">
-                {% capture sidebar %}{% include sidebar.md %} {% endcapture %}
-                {{ sidebar | markdownify }}
-            </div>
+                {% include sidebar.html %}
+             </div>
         </div>
 
         {% include footer.html %}
