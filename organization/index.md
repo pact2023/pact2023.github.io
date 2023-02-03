@@ -14,6 +14,9 @@ show_sidebar: true
 **Program Chair:**<br>
 [Calin Cascaval](https://conf.researchr.org/profile/conf/calincascaval), Google
 
+**Workshop/Tutorial Chair**<br>
+[Ana Lucia Varbanescu](https://people.utwente.nl/a.l.varbanescu), U. of Twente
+
 **Student Travel Grant Chair:**<br>
 [Sepideh Maleki](https://www.cs.utexas.edu/~smaleki/), U. Texas at Austin
 
