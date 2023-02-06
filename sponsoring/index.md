@@ -6,7 +6,7 @@ layout:       page_sidebar
 show_sidebar: true
 ---
 
-# Sponsorship Packages for PACT22
+# Sponsorship Packages for PACT23
 
 ## Platinum
 
