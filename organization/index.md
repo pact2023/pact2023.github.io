@@ -64,7 +64,7 @@ Fabian Gruber, arm
 - [ Jose      Moreira     ](https://researcher.watson.ibm.com/researcher/view.php?person=us-jmoreira), IBM, USA
 - [ Yale      Patt        ](http://users.ece.utexas.edu/~patt/), U. Texas at Austin, USA
 - [ Lawrence  Rauchwerger ](https://cs.illinois.edu/about/people/all-faculty/rwerger) (Chair), U. Illinois, USA
-- [ Valentina Salapura    ](https://www.linkedin.com/in/valentina-salapura-81924a44), AMD, USA
+- [ Valentina Salapura    ](https://www.linkedin.com/in/valentina-salapura-81924a44), Google, USA
 - [ Vivek     Sarkar      ](https://vsarkar.cc.gatech.edu/), Georgia Tech, USA
 - [ Gabby     Silberman   ](https://es.linkedin.com/in/gabbysilberman), BIST (Barcelona Inst. of Sci. and Tech.), Spain
 - [ Mateo     Valero      ](https://www.bsc.es/mateo-valero), UPC/Barcelona Supercomputing Center, Spain
