@@ -39,4 +39,4 @@ Proposals should be submitted to Ana Lucia Varbanescu, todo.put.email.here@or.no
 
 # Important Dates
 
-Workshop/Tutorials to be held October XX-YY, 2023.
+Workshop/Tutorials to be held October 21-22, 2023.
