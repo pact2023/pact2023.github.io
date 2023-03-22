@@ -90,7 +90,6 @@ Fabian Gruber, arm
 - Christopher   Hughes,          Intel
 - Djordje       Jevdjic,         NU Singapore
 - Paul          Kelly,           Imperial College
-- Sriram        Krishnamoorthy,  Google
 - Jesper        Larsson Traff,   TU Wien
 - Jaejin        Lee,             SNU
 - Xavier        Martorell,       BSC
@@ -106,6 +105,7 @@ Fabian Gruber, arm
 - Dario         Suarez-Gracia,   U Zaragoza
 - Pedro         Trancoso,        Chalmers
 - James         Tuck,            NCSU
+- Nilay         Vaish,           Google
 - Ana Lucia     Varbanescu,      U Twente
 - Jingling      Xue,             UNSW Sydney
 - Ayal          Zaks,            Intel
@@ -114,12 +114,9 @@ Fabian Gruber, arm
 
 ## Best Paper Selection Committee
 
-- Jose Cano, University of Glasgow
-- Sushant Kondguli, Meta
-- Jose Moreira, IBM
-- Antonino Tumeo, Pacific Northwest National Laboratory
+TBD
 
-<!-- 
+<!--
 ## Artifact Evaluation Committee
 
 (TBA)
