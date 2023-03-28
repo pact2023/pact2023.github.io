@@ -3,7 +3,7 @@
 
 PACT 2023 will be held in **Vienna, Austria**, during {{ site.data.vars.conf_dates }}.
 
-**Submissions due: April 1, 2023**
+**Submissions due: ~~April 1, 2023~~ Extended to April 15, 2023**
 
 ## Scope
 
@@ -37,7 +37,7 @@ Specific topics of interest include (but are not limited to):
 
 ## Submitting your work
 
-Paper submissions are due **April 1, 2023** by posting on the conference [submission site](https://pact23.hotcrp.com/). Please make sure that your paper satisfies all the following requirements before being submitted. Submissions not adhering to these submission guidelines will be rejected by the submission system and/or subject to an administrative rejection.
+Paper submissions are due ~~**April 1, 2023**~~ **April 15, 2023** by posting on the conference [submission site](https://pact23.hotcrp.com/). Please make sure that your paper satisfies all the following requirements before being submitted. Submissions not adhering to these submission guidelines will be rejected by the submission system and/or subject to an administrative rejection.
 
 * The paper must have an abstract under 300 words.
 * The paper must be original material that has not been previously published in another conference or journal, nor is currently under review by another conference or journal. You may submit material presented previously at a workshop without copyrighted proceedings.
@@ -69,12 +69,12 @@ Papers that successfully go through the Artifact Evaluation process will receive
 ## Key dates
 
 * Abstract submission deadline: Mar 25, 2023
-* Paper submission deadline: Apr 1, 2023
-* Round 1 rebuttal period: Jun 6-9, 2023
-* Round 2 rebuttal period: Jul 5-7, 2023
-* Author notification: Aug 1, 2023
-* Artifact submission: Aug 4, 2023
-* Camera ready papers: Sep 1, 2023
+* Paper submission deadline: ~~Apr 1,   2023~~ **Extended to April 15, 2023**
+* Round 1 rebuttal period:   ~~Jun 6-9, 2023~~ Jun 20-23, 2023
+* Round 2 rebuttal period:   ~~Jul 5-7, 2023~~ Jul 19-21, 2023
+* Author notification:       ~~Aug 1,   2023~~ Aug 15,   2023
+* Artifact submission:       ~~Aug 4,   2023~~ Aug 18,   2023
+* Camera ready papers:       ~~Sep 1,   2023~~ Sep 15,   2023
 
 All deadlines are firm at midnight anywhere on earth (AoE).
 
