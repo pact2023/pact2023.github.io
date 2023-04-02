@@ -17,6 +17,9 @@ show_sidebar: true
 **Workshop/Tutorial Chair**<br>
 [Ana Lucia Varbanescu](https://people.utwente.nl/a.l.varbanescu), U. of Twente
 
+**ACM Student Research Competition Chair:**<br>
+[Saugata Ghose](https://ghose.cs.illinois.edu/), U. Illinois
+
 **Student Travel Grant Chair:**<br>
 [Sepideh Maleki](https://www.cs.utexas.edu/~smaleki/), U. Texas at Austin
 
