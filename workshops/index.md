@@ -18,7 +18,9 @@ We will be doing rolling acceptances and encourage potential organizers to conta
 
 # Important Dates
 
-Workshop/Tutorials to be held October 21-22, 2023.
+* Submission deadline for workshops: July 3rd, 2023.
+* Submission deadline for tutorials: August 21st, 2023.
+* Workshop/Tutorials to be held October 21-22, 2023.
 
 # Proposal Submission
 
