@@ -70,8 +70,8 @@ Papers that successfully go through the Artifact Evaluation process will receive
 
 * Abstract submission deadline: Mar 25, 2023
 * Paper submission deadline: ~~Apr 1,   2023~~ **Extended to April 15, 2023**
-* Round 1 rebuttal period:   ~~Jun 6-9, 2023~~ Jun 20-23, 2023
-* Round 2 rebuttal period:   ~~Jul 5-7, 2023~~ Jul 19-21, 2023
+* Round 1 rebuttal period:   ~~Jun 6-9, 2023~~ Jun 12-15, 2023
+* Round 2 rebuttal period:   ~~Jul 5-7, 2023~~ Jul 10-13, 2023
 * Author notification:       ~~Aug 1,   2023~~ Aug 15,   2023
 * Artifact submission:       ~~Aug 4,   2023~~ Aug 18,   2023
 * Camera ready papers:       ~~Sep 1,   2023~~ Sep 15,   2023
