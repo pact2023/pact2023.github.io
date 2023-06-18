@@ -91,7 +91,6 @@ Fabian Gruber, arm
 - Dirk          Grunwald,        U Colorado
 - Lee           Howes,           Meta
 - Christopher   Hughes,          Intel
-- Djordje       Jevdjic,         NU Singapore
 - Paul          Kelly,           Imperial College
 - Jesper        Larsson Traff,   TU Wien
 - Jaejin        Lee,             SNU
