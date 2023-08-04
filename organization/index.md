@@ -40,14 +40,9 @@ show_sidebar: true
 - Asia: [Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/member/yokota.html), Tokyo Institute of Technology
 - Americas: [Hari Sundar](https://www.cs.utah.edu/~hari/), U. Utah
 
-<!--
-
-**ACM Student Research Competition Chair:**<br>
-[Saugata Ghose](https://ghose.cs.illinois.edu/), U. Illinois
-
-**Artifact Evaluation Committee Chair:**<br>
-[Sven-Bodo Scholz](https://www.ru.nl/en/people/scholz-s), Radboud U.
- -->
+**Artifact Evaluation Committee Co-Chairs:**<br>
+Soumyadeep Ghosh, Meta Platforms Inc
+[James Tuck](https://ece.ncsu.edu/people/jtuck), North Carolina State University
 
 **Web Chair:**<br>
 Fabian Gruber, arm
