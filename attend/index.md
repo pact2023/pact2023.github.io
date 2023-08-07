@@ -72,6 +72,8 @@ Registration will open around August 18th, early regitration ends on September 3
 If you cancel your attendance on or before September 17, a €150 cancellation fee is due.
 Cancellations after this date do not receive a refund.
 
+<br>
+
 
 ## Travel Information
 
