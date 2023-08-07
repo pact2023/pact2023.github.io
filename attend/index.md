@@ -47,7 +47,7 @@ Registration will open around August 18th, early regitration ends on September 3
 
 | Registration Type        | Early-Bird | Regular |
 |--------------------------|------------|---------|
-| ACM/IEEE Member          | €627.00    | €803.00 |
+| ACM/IEEE/OCG Member      | €627.00    | €803.00 |
 | Non-Member     	       | €753.50    | €968.00 |
 | ACM SRC                  | €300.00    | €300.00 |
 | Student Member           | €440.00    | €566.50 |
@@ -58,12 +58,12 @@ Registration will open around August 18th, early regitration ends on September 3
 
 #### Tutorials/Workshops
 
-| Registration Type  | Early-Bird | Regular |
-| -------------------|------------|---------|
-| ACM/IEEE Member    | €352.00    | €423.50 |
-| Non-Member         | €423.50    | €511.50 |
-| Student Member     | €247.50    | €297.00 |
-| Student Non-Member | €297.00    | €357.50 |
+| Registration Type   | Early-Bird | Regular |
+| --------------------|------------|---------|
+| ACM/IEEE/OCG Member | €352.00    | €423.50 |
+| Non-Member          | €423.50    | €511.50 |
+| Student Member      | €247.50    | €297.00 |
+| Student Non-Member  | €297.00    | €357.50 |
 
 <br>
 
