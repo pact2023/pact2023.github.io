@@ -39,18 +39,20 @@ and the [Botanical Garden of the University of Vienna](https://botanischergarten
 ### Registration Rates
 
 Pricing and policy information is reproduced here for convenience, without guarantees of accuracy.
-See [pricing via our registration vendor](https://cvent.me/eabMXV) for authoritative information.
+Registration will open around August 18th, early regitration ends on September 3rd.
+<!-- See [pricing via our registration vendor](https://cvent.me/eabMXV) for authoritative information. -->
 
 
 #### Full Conference
 
-| Registration Type   | Early-Bird | Regular |
-|---------------------|------------|---------|
-| ACM/IEE Member      | $627.00    | $803.00 |
-| ACM SRC             | $300.00    | $300.00 |
-| Non-Member     	  | $753.50    | $968.00 |
-| Student Member      | $440.00    | $566.50 |
-| Student Non-Member  | $528.00    | $682.00 |
+| Registration Type        | Early-Bird | Regular |
+|--------------------------|------------|---------|
+| ACM/IEEE Member          | €627.00    | €803.00 |
+| Non-Member     	       | €753.50    | €968.00 |
+| ACM SRC                  | €300.00    | €300.00 |
+| Student Member           | €440.00    | €566.50 |
+| Student Non-Member       | €528.00    | €682.00 |
+| Additional Dinner Ticket | €99.00     | €99.00  |
 
 <br>
 
@@ -58,10 +60,10 @@ See [pricing via our registration vendor](https://cvent.me/eabMXV) for authorita
 
 | Registration Type  | Early-Bird | Regular |
 | -------------------|------------|---------|
-| ACM/IEE Member     | $352.00    | $423.50 |
-| Non-Member         | $423.50    | $511.50 |
-| Student Member     | $247.50    | $297.00 |
-| Student Non-Member | $297.00    | $357.50 |
+| ACM/IEEE Member    | €352.00    | €423.50 |
+| Non-Member         | €423.50    | €511.50 |
+| Student Member     | €247.50    | €297.00 |
+| Student Non-Member | €297.00    | €357.50 |
 
 <br>
 
