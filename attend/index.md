@@ -27,6 +27,8 @@ Rennweg 16 <br>
 1030 Vienna, Austria <br>
 Phone number: +43 120633 <br>
 
+A link for booking rooms at a reduced rate at the venue will be available next week.
+
 The conference venue is located in the centre of Vienna, in the embassy quarter.
 It is right next to sights such as the
 [Belvedere palace](https://www.belvedere.at/en), a baroque, 18th-century palaces housing an art museum with a notable Klimt collection,
