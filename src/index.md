@@ -13,7 +13,7 @@ show_sidebar: true
 ## Important Dates & Links
 
 - Extended Abstracts (800 words max; see full guidelines below)
-        - Due **August 17, 2023** (AoE: UTC-12)
+	- Due **August 17, 2023** (AoE: UTC-12)
 	- [Submission Site](https://pact23src.hotcrp.com/)
 - Notification: September 1, 2023
 - SRC Poster Session: October 24, 2023
