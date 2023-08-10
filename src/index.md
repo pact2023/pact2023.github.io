@@ -8,13 +8,13 @@ show_sidebar: true
 
 # ACM Student Research Competition (SRC)
 
-<!-- <a href="https://pact22src.hotcrp.com/" class="btn btn-secondary btn-lg px-4 me-md-2">Submit to the SRC &raquo;</a> -->
+<a href="https://pact23src.hotcrp.com/" class="btn btn-secondary btn-lg px-4 me-md-2">Submit to the SRC &raquo;</a>
 
 ## Important Dates & Links
 
 - Extended Abstracts (800 words max; see full guidelines below)
-- Due **August 17, 2023** (AoE: UTC-12)
-	- [Submission Site](https://pact23src.hotcrp.com/) (available soon)
+	- Due **August 17, 2023** (AoE: UTC-12)
+	- [Submission Site](https://pact23src.hotcrp.com/)
 - Notification: September 1, 2023
 - SRC Poster Session: October 24, 2023
 - SRC Finalist Presentation: October 25, 2023
