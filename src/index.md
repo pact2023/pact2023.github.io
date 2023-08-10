@@ -78,7 +78,7 @@ conference-hosted SRCs.
 - Extended abstracts for the PACT 2023 ACM Student Research Competition
   must be submitted electronically at the [SRC submission site](https://pact23src.hotcrp.com/)
   no later than August 17, 2023 (AoE).
-- **Submissions should not exceed 1 page, and should not exceed 800 words.**
+- **Submissions should not exceed ~~1 page~~ 2 pages, and should not exceed 800 words.**
   Figures and references are allowed, but must fit within the single
   page. References do not count toward the 800-word limit.
 - The submission should be in PDF format.
