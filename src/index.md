@@ -79,8 +79,8 @@ conference-hosted SRCs.
   must be submitted electronically at the [SRC submission site](https://pact23src.hotcrp.com/)
   no later than August 17, 2023 (AoE).
 - **Submissions should not exceed ~~1 page~~ 2 pages, and should not exceed 800 words.**
-  Figures and references are allowed, but must fit within the single
-  page. References do not count toward the 800-word limit.
+  Figures and references are allowed, but must fit within the two
+  pages. References do not count toward the 800-word limit.
 - The submission should be in PDF format.
 - Blind submissions are fine, but are not required.
 - The submission must meet all eligibility requirements below.
@@ -133,7 +133,26 @@ conference-hosted SRCs.
 
 ### Selection Committee
 
-- TBA
+- Shoaib Akram (Australian National Univ.)
+- Rachata Ausavarungnirun (King Mongkut's Univ. of Technology North Bangkok)
+- Niladrish Chatterjee (NVIDIA)
+- Shuang Chen (Huwaei)
+- Yi Ding (Purdue Univ.)
+- Aishwarya Ganesan (Univ. of Illinois Urbana-Champaign; VMware Research)
+- Sayan Ghosh (Pacific Northwest National Laboratory)
+- Juan Gómez Luna (ETH Zürich)
+- Tsung-Wei Huang (Univ. of Utah)
+- Tze Meng Low (Carnegie Mellon Univ.)
+- Abdulrahman Mahmoud (Harvard Univ.)
+- Charith Mendis (Univ. of Illinois Urbana-Champaign)
+- Hoda Naghibijouybari (Binghamton Univ.)
+- Sabrina Neuman (Boston Univ.)
+- Brandon Reagan (New York Univ.)
+- Elaheh Sadredini (Univ. of California, Riverside)
+- Muhammad Shahbaz (Purdue Univ.)
+- Kate Smith (Infleqtion; Northwestern Univ.)
+- Swamit Tannu (Univ. of Wisconsin–Madison)
+- Ana Lucia Varbanescu (Univ. of Amsterdam)
 
 <a id="judges"></a>
 
