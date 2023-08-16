@@ -43,7 +43,7 @@ Registration will open around August 18th, early regitration ends on September 3
 |--------------------------|------------|---------|
 | ACM/IEEE/OCG Member      | €627.00    | €803.00 |
 | Non-Member     	       | €753.50    | €968.00 |
-| ACM SRC                  | €300.00    | €300.00 |
+| ACM SRC                  | €275.00    | €275.00 |
 | Student Member           | €440.00    | €566.50 |
 | Student Non-Member       | €528.00    | €682.00 |
 | Additional Dinner Ticket | €99.00     | €99.00  |
