@@ -13,7 +13,7 @@ show_sidebar: true
 ## Important Dates & Links
 
 - Extended Abstracts (800 words max; see full guidelines below)
-	- Due **August 17, 2023** (AoE: UTC-12)
+	- Due ~~August 17~~ **August 21, 2023** (AoE: UTC-12)
 	- [Submission Site](https://pact23src.hotcrp.com/)
 - Notification: September 1, 2023
 - SRC Poster Session: October 24, 2023
@@ -77,7 +77,7 @@ conference-hosted SRCs.
 
 - Extended abstracts for the PACT 2023 ACM Student Research Competition
   must be submitted electronically at the [SRC submission site](https://pact23src.hotcrp.com/)
-  no later than August 17, 2023 (AoE).
+  no later than August 21, 2023 (AoE).
 - **Submissions should not exceed ~~1 page~~ 2 pages, and should not exceed 800 words.**
   Figures and references are allowed, but must fit within the two
   pages. References do not count toward the 800-word limit.
@@ -117,7 +117,7 @@ conference-hosted SRCs.
 	- Maintain an undergraduate or graduate student status as of the
 	  submission deadline.
 - SRC allows parallel submissions of full papers in other conferences,
-  as long as they abide by self-plagiarism rules (e.g., at least 30% of
+  as long as they abide by self-plagiarism rules (i.e., at least 30% of
   both the SRC abstract and the other publication is unique).
   That is, any other submission needs to be a minimum of 30% different
   than this SRC submission.
@@ -141,6 +141,7 @@ conference-hosted SRCs.
 - Aishwarya Ganesan (Univ. of Illinois Urbana-Champaign; VMware Research)
 - Sayan Ghosh (Pacific Northwest National Laboratory)
 - Juan Gómez Luna (ETH Zürich)
+- Udit Gupta (Cornell Tech)
 - Tsung-Wei Huang (Univ. of Utah)
 - Tze Meng Low (Carnegie Mellon Univ.)
 - Abdulrahman Mahmoud (Harvard Univ.)
