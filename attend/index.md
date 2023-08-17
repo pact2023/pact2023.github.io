@@ -24,7 +24,7 @@ Rennweg 16 <br>
 1030 Vienna, Austria <br>
 Phone number: +43 120633 <br>
 
-A link for booking rooms at the venue at a reduced rate will be available next week.
+Rooms at the venue can be booked at a reduced rate through [this link](https://reservations.travelclick.com/75044?groupID=4029480).
 
 <br>
 
