@@ -1,6 +1,8 @@
 
 # Accepted papers
 
+_This is the preliminary list of accepted papers and posters accepted at PACT 2023._
+
 * **A Silicon Photonic Multi-DNN Accelerator**, Yuan Li, _George Washington University_, Ahmed Louri, _George Washington University_, Avinash Karanth, _Ohio University_
 
 * **Accelerating Decision-Tree-based Inference through Adaptive Parallelization**, Jan van Lunteren, _IBM Research_

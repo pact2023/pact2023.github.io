@@ -6,6 +6,31 @@ layout:       page_sidebar
 show_sidebar: true
 ---
 
-_This is the preliminary list of accepted papers and posters accepted at PACT 2023._
+# Schedule
+
+Conference dates: October 21–25, 2023
+
+### Saturday Oct 21
+
+Workshops and tutorials
+
+### Sunday Oct 22
+
+Workshops and tutorials
+
+### Monday Oct 23
+
+* Conference
+* Evening: Reception and Poster Session
+
+### Tuesday Oct 24
+
+* Conference
+* Evening: Banquet Dinner
+
+### Wednesday Oct 25
+
+* Conference
+
 
 {% include list_of_papers.md %}
