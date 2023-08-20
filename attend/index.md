@@ -30,11 +30,19 @@ Rooms at the venue can be booked at a reduced rate through [this link](https://r
 
 ## Registration
 
+Registration for PACT 2023 is now open.
+
+<a href="https://cvent.me/N5v31n" class="btn btn-primary btn-lg px-4 me-md-2">Register Now »</a>
+
+If you want to register both for the conference and the workshops/tutorials, first select
+the conference. On the following page it will then be possible to add the workshops/tutorials.
+
+
 ### Registration Rates
 
 Pricing and policy information is reproduced here for convenience, without guarantees of accuracy.
 Registration will open around August 18th, early regitration ends on September 3rd.
-<!-- See [pricing via our registration vendor](https://cvent.me/eabMXV) for authoritative information. -->
+See [pricing via our registration vendor](https://web.cvent.com/event/bbf7fcc0-dde4-47d0-af67-6b98edca278e/websitePage:fccdd446-cd58-4b0d-ac59-10c376231453) for authoritative information.
 
 
 ### Full Conference
