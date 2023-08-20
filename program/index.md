@@ -8,29 +8,154 @@ show_sidebar: true
 
 # Schedule
 
-Conference dates: October 21–25, 2023
+### Saturday, October 21, 2023
 
-### Saturday Oct 21
+<table class="table table-striped">
+	<thead>
+		<th>
+			Time
+		</th>
+		<th>
+			What
+		</th>
+		<th>
+			Where
+		</th>
+	</thead>
+	<tr>
+		<td>
+		</td>
+		<td>
+			<a href="/workshops">
+				Workshops and tutorials
+			</a>
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
 
-Workshops and tutorials
+### Sunday, October 22, 2023
 
-### Sunday Oct 22
+<table class="table table-striped">
+	<thead>
+		<th>
+			Time
+		</th>
+		<th>
+			What
+		</th>
+		<th>
+			Where
+		</th>
+	</thead>
+	<tr>
+		<td>
+		</td>
+		<td>
+			<a href="/workshops">
+				Workshops and tutorials
+			</a>
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
 
-Workshops and tutorials
+### Monday, October 23, 2023
 
-### Monday Oct 23
+<table class="table table-striped">
+	<thead>
+		<th>
+			Time
+		</th>
+		<th>
+			What
+		</th>
+		<th>
+			Where
+		</th>
+	</thead>
+	<tr>
+		<td>
+		</td>
+		<td>
+			Conference
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Evening
+		</td>
+		<td>
+			Reception and Poster Session
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
 
-* Conference
-* Evening: Reception and Poster Session
+### Tuesday, October 24, 2023
 
-### Tuesday Oct 24
+<table class="table table-striped">
+	<thead>
+		<th>
+			Time
+		</th>
+		<th>
+			What
+		</th>
+		<th>
+			Where
+		</th>
+	</thead>
+	<tr>
+		<td>
+		</td>
+		<td>
+			Conference
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Evening
+		</td>
+		<td>
+			Banquet Dinner
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
 
-* Conference
-* Evening: Banquet Dinner
+### Wednesday, October 25, 2023
 
-### Wednesday Oct 25
+<table class="table table-striped">
+	<thead>
+		<th>
+			Time
+		</th>
+		<th>
+			What
+		</th>
+		<th>
+			Where
+		</th>
+	</thead>
+	<tr>
+		<td>
+		</td>
+		<td>
+			Conference
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
 
-* Conference
-
-
+<br>
 {% include list_of_papers.md %}
