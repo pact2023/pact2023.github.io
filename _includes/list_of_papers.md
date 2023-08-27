@@ -71,8 +71,6 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **Retargeting Applications for Heterogeneous Systems with the Tribble Source-to-Source Framework**, Luís Miguel Sousa, _Faculty of Engineering, University of Porto / INESC TEC_, Nuno Paulino, _Faculty of Engineering, University of Porto / INESC TEC_, João Bispo, _Faculty of Engineering, University of Porto / INESC TEC_
 
-* **Rewriting History: Repurposing Domain-Specific CGRAs**, Jackson Woodruff, _University of Edinburgh_, Thomas Koehler, _INRIA France_, Alexander Brauckmann, _University of Edinburgh_, Sam Ainsworth, _University of Edinburgh_, Chris Cummins, _Meta AI Research_, Michel Steuwer, _University of Edinburgh_, Michael O'Boyle, _University of Edinburgh_
-
 * **SEER: An on-node Architecture-Agnostic, Multi-Device, and Performance-Portable C++ Library for Heterogeneous Systems**, Pedro Valero-Lara, _Oak Ridge National Laboratory_, Keita Teransishi, _Oak Ridge National Laboratory_, Jeffrey S. Vetter, _Oak Ridge National Laboratory_
 
 * **SHREG: Specialized Shared Registers to Reduce Redundant Register Usage in GPUs**, Seunghyun Jin, _Yonsei University_, Hyunwuk Lee, _Yonsei University_, Jonghyun Lee, _University of Southern California_, Junsung Kim, _Yonsei University_, Won Woo Ro, _Yonsei University_
