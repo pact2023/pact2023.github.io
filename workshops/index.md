@@ -14,6 +14,42 @@ show_sidebar: true
 
 ## Program
 
+### Saturday, October 21, 2023
+
+<table class="table table-striped">
+	<thead>
+		<th>
+			Time
+		</th>
+		<th>
+			What
+		</th>
+		<th>
+			Where
+		</th>
+	</thead>
+	<tr>
+		<td>
+			half day
+		</td>
+		<td>
+			Workshop: AI Acceleration
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			full day
+		</td>
+		<td>
+			Tutorial: Core-Level Performance Engineering
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
+
 ### Sunday, October 22, 2023
 
 <table class="table table-striped">
@@ -35,6 +71,16 @@ show_sidebar: true
 			<a href="https://groups.csail.mit.edu/commit/mlsh/">
 				Workshop: Machine Learning for Software Hardware Co-Design (MLSH'23)
 			</a>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			full day
+		</td>
+		<td>
+			Tutorial: SODA Synthesizer: Accelerating Data Science Applications with an end-to-end Silicon Compiler
 		</td>
 		<td>
 		</td>
