@@ -78,19 +78,186 @@ show_sidebar: true
 	</thead>
 	<tr>
 		<td>
+			8:00
 		</td>
 		<td>
-			Conference
+			Opening
 		</td>
 		<td>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			Evening
+			8:30
 		</td>
 		<td>
-			Reception and Poster Session
+			Keynote: Antonio Gonzales
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			9:30
+		</td>
+		<td>
+			Break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			10:00
+		</td>
+		<td>
+			<b>Session: Compilers</b>
+			<br>
+			<ul>
+				<li>
+					10:00 – 10:30
+					<br>
+					<b>
+						CELLO: Compiler-Assisted Efficient Load-Load Ordering in Data-Race-Free Regions
+					</b>
+					<br>
+					Sawan Singh, Josue Feliu, Manuel E. Acacio, Alexandra Jimborean, Alberto Ros
+				</li>
+				<li>
+					10:30 – 11:00
+					<br>
+					<b>
+						GraphX: Automatic Code Generation for High-Performance Graph Algorithms,
+					</b>
+					<br>
+					Zhen Peng, Rizwan A. Ashraf, Luanzheng Guo, Ruiqin Tian, Gokcen Kestor
+				</li>
+				<li>
+					11:00 – 11:30
+					<br>
+					<b>
+						UWOmp𝑝𝑟𝑜: UWOmp++ with Point-to-Point Synchronization, Reduction and Schedules
+					</b>
+					<br>
+					Aditya Agrawal, V. Krishna Nandivada
+				</li>
+				<li>
+					11:30 – 12:00
+					<br>
+					<b>
+						mlirSynth: Automatic, Retargetable Program Raising in Multi-Level IR using Program Synthesis
+					</b>
+					<br>
+					Alexander Brauckmann, Elizabeth Polgreen, Tobias Grosser, Michael O'Boyle
+				</li>
+			</ul>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			12:00
+		</td>
+		<td>
+			Lunch
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			13:00
+		</td>
+		<td>
+			<b>Session: Memory system</b>
+			<br>
+			<ul>
+				<li>
+					13:00 – 13:30
+					<br>
+					<b>
+ 						Drishyam: An Image is Worth a Data Prefetcher
+ 					</b>
+ 					<br>
+ 					hubdeep Mohapatra, Biswabandan Panda
+				</li>
+				<li>
+					13:30 – 14:00
+					<br>
+					<b>
+						HugeGPT: Using Huge Pages to Accelerate Address Translation for Weak Locality Data
+					</b>
+					<br>
+					Yiming Du, Jiyuan Zhang, Weiwei Jia, Jianchen Shan, Xiaoning Ding, Tianyin Xu
+				</li>
+				<li>
+					14:00 – 14:30
+					<br>
+					<b>
+						PreFlush: Lightweight Hardware Prediction Mechanism for Cache Line Flush and Writeback
+					</b>
+					<br>
+					Hussein Elnawawy, James Tuck, Gregory Byrd
+				</li>
+				<li>
+					14:30 – 15:00
+					<br>
+					<b>
+						SDM: Sharing-enabled Disaggregated Memory System with Cache Coherent Compute Express Link
+					</b>
+					<br>
+					Hyokeun Lee, Kwanseok Choi, Hyuk-Jae Lee, Jaewoong Sim
+				</li>
+				<li>
+					15:00 – 15:30
+					<br>
+					<b>
+						SimplePIM: A Software Framework For Productive And Efficient In-Memory Processing
+					</b>
+					<br>
+					Jinfan Chen, Juan Gomez Luna, Izzat El Hajj, YuXin Guo, Onur Mutlu
+				</li>
+				<li>
+					15:30 – 16:00
+					<br>
+					<b>
+						Virtual PIM: Resource-aware Dynamic DPU Allocation and Workload Scheduling Framework on Multi-DPU PIM Architecture
+					</b>
+					<br>
+					Donghyeon Kim, Taehoon Kim, Inyong Hwang, Taehyeong Park, Hanjun Kim, Youngsok Kim, Yongjun Park
+				</li>
+			</ul>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			16:00
+		</td>
+		<td>
+			Break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			17:00
+		</td>
+		<td>
+			Reception Poster session
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			19:00
+		</td>
+		<td>
+			Business meeting
 		</td>
 		<td>
 		</td>
@@ -113,19 +280,198 @@ show_sidebar: true
 	</thead>
 	<tr>
 		<td>
+			8:30
 		</td>
 		<td>
-			Conference
+			Keynote: TBD
 		</td>
 		<td>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			Evening
+			9:30
 		</td>
 		<td>
-			Banquet Dinner
+			Break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			10:00
+		</td>
+		<td>
+			Session: GPUs
+			<br>
+			<ul>
+				<li>
+					10:00 – 10:30
+					<br>
+					<b>
+						Boustrophedonic Frames: Quasi-Optimal L2 Caching for Textures in GPUs
+					</b>
+					<br>
+					Diya Joseph, Juan L. Aragón, Joan-Manuel Parcerisa, Antonio Gonzalez
+				</li>
+				<li>
+					10:30 – 11:00
+					<br>
+					<b>
+						G-Sparse: Compiler-Driven Acceleration for Generalized Sparse Computation for Graph Neural Networks on Modern GPUs
+					</b>
+					<br>
+					Yue Jin, Heng Zhang, Chengying Huan, Yongchao Liu, Shuaiwen Leon Song, Rui Zhao, Yao Zhang, Charles He, Wenguang Chen
+				</li>
+				<li>
+					11:00 – 11:30
+					<br>
+					<b>
+						TSUNAMI: a GPU implementation of the WFA algorithm
+					</b>
+					<br>
+					Giulia Gerometta, Alberto Zeni, Marco D. Santambrogio
+				</li>
+				<li>
+					11:30 – 12:00
+					<br>
+					<b>
+						Parallelizing Maximal Clique Enumeration on GPUs
+					</b>
+					<br>
+					Mohammad Almasri, Yen-Hsiang Chang, Izzat El Hajj, Rakesh Nagi, Jinjun Xiong, Wen-mei Hwu
+				</li>
+			</ul>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			12:00
+		</td>
+		<td>
+			Lunch
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			13:00
+		</td>
+		<td>
+			Session: Algorithms
+			<br>
+			<ul>
+				<li>
+					13:00 – 13:30
+					<br>
+					<b>
+						Accelerating Decision-Tree-based Inference through Adaptive Parallelization
+					</b>
+					<br>
+					Architecture-Aware CurryingJan van Lunteren
+				</li>
+				<li>
+					13:30 – 14:00
+					<br>
+					<b>
+						Automatic Algorithm-Based Fault Tolerance (AABFT) of Stencil Computations
+					</b>
+					<br>
+					Louis Narmour, Steven Derrien, Sanjay Rajopadhye
+				</li>
+				<li>
+					14:00 – 14:30
+					<br>
+					<b>
+						Performance Characterization of Popular DNN Models on Out-of-Order CPUs
+					</b>
+					<br>
+					Pablo Prieto, Pablo Abad, Jose Angel Gregorio, Valentin Puente
+				</li>
+				<li>
+					14:30 – 15:00
+					<br>
+					<b>
+						Minigraph: Accelerating Subgraph Enumeration Using Auxiliary Graphs
+					</b>
+					<br>
+					Juelin Liu, Sandeep Polisetty, Hui Guan, Marco Serafini
+				</li>
+			</ul>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			15:00
+		</td>
+		<td>
+			Break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			15:30
+		</td>
+		<td>
+			Session: Optimization
+			<br>
+			<ul>
+				<li>
+					15:30 – 16:00
+					<br>
+					<b>
+						Separating Mechanism from Policy in STM
+					</b>
+					<br>
+					Yaodong Sheng, Ahmed Hassan, Michael Spear
+				</li>
+				<li>
+					16:00 – 16:30
+					<br>
+					<b>
+						MBAPIS: Multi-Level Behavior Analysis Guided Program Interval Selection for Microarchitecture Studies
+					</b>
+					<br>
+					Hongwei Cui, Yujie Cui, Honglan Zhan, Shuhao Liang, Xianhua Liu, Chun Yang, Xu Cheng
+				</li>
+				<li>
+					16:30 – 17:00
+					<br>
+					<b>
+						INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core
+					</b>
+					<br>
+					Jae Seok Kwak, Myung Kuk Yoon, Ipoom Jeong, Seunghyun Jin, Won Woo Ro
+				</li>
+			</ul>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			17:30
+		</td>
+		<td>
+			Break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			18:00
+		</td>
+		<td>
+			Conference dinner
 		</td>
 		<td>
 		</td>
@@ -148,9 +494,78 @@ show_sidebar: true
 	</thead>
 	<tr>
 		<td>
+			8:30
 		</td>
 		<td>
-			Conference
+			Keynote: Albert Cohen
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			9:30
+		</td>
+		<td>
+			Break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			10:00
+		</td>
+		<td>
+			Session: Architecture
+			<ul>
+				<li>
+					10:00 – 10:30
+					<br>
+					<b>
+						Barad-dur: Near-Storage Accelerator for Training Large Graph Neural Networks
+					</b>
+					<br>
+					Jiyoung An, Sang-Woo Jun
+				</li>
+				<li>
+					10:30 – 11:00
+					<br>
+					<b>
+						A Silicon Photonic Multi-DNN Accelerator
+					</b>
+					<br>
+					Yuan Li, Ahmed Louri, Avinash Karanth
+				</li>
+				<li>
+					11:00 – 11:30
+					<br>
+					<b>
+						Architecture-Aware Currying
+					</b>
+					<br>
+					Mahmut Taylan Kandemir, Gulsum Gudukbay Akbulut, Wonil Choi, Mustafa Karakoy
+				</li>
+				<li>
+					11:30 – 12:00
+					<br>
+					<b>
+						SpecCheck: A Tool for Systematic Identification of Vulnerable Transient Execution in gem5
+					</b>
+					<br>
+					Zack McKevitt, Ashutosh Trivedi, Tamara Silbergleit Lehman
+				</li>
+			</ul>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			12:00
+		</td>
+		<td>
+			Closing
 		</td>
 		<td>
 		</td>
