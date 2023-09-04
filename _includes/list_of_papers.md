@@ -73,8 +73,6 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **SEER: An on-node Architecture-Agnostic, Multi-Device, and Performance-Portable C++ Library for Heterogeneous Systems**, Pedro Valero-Lara, _Oak Ridge National Laboratory_, Keita Teransishi, _Oak Ridge National Laboratory_, Jeffrey S. Vetter, _Oak Ridge National Laboratory_
 
-* **SHREG: Specialized Shared Registers to Reduce Redundant Register Usage in GPUs**, Seunghyun Jin, _Yonsei University_, Hyunwuk Lee, _Yonsei University_, Jonghyun Lee, _University of Southern California_, Junsung Kim, _Yonsei University_, Won Woo Ro, _Yonsei University_
-
 * **SLIDEX: Sliding Window Extension for Image Processing**, Raúl Taranco, _Polytechnic University of Catalonia_, Jose Maria Arnau, _Polytechnic University of Catalonia_, Antonio Gonzalez, _Polytechnic University of Catalonia_
 
 * **SYNPA ( SYNergistic PAirs): SMT Performance Analysis and Allocation of Threads to Cores in ARM Processors**, Marta Navarro, _Universitat Politècnica de València_, Josué Feliu Pérez, _Universitat Politècnica de València_, Salvador Petit, _Universitat Politècnica de València_, Maria E. Gómez, _Universitat Politècnica de València_, Victor Lixin, _HiSilicon_, Julio Sahuquillo, _Universitat Politècnica de València_
