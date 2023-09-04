@@ -127,7 +127,7 @@ show_sidebar: true
 					10:30 – 11:00
 					<br>
 					<b>
-						GraphX: Automatic Code Generation for High-Performance Graph Algorithms,
+						Automatic Code Generation for High-Performance Graph Algorithms,
 					</b>
 					<br>
 					Zhen Peng, Rizwan A. Ashraf, Luanzheng Guo, Ruiqin Tian, Gokcen Kestor
@@ -421,35 +421,43 @@ show_sidebar: true
 			15:30
 		</td>
 		<td>
-			Session: Optimization
-			<br>
+			Session: Architecture
 			<ul>
 				<li>
 					15:30 – 16:00
 					<br>
 					<b>
-						Separating Mechanism from Policy in STM
+						Barad-dur: Near-Storage Accelerator for Training Large Graph Neural Networks
 					</b>
 					<br>
-					Yaodong Sheng, Ahmed Hassan, Michael Spear
+					Jiyoung An, Sang-Woo Jun
 				</li>
 				<li>
 					16:00 – 16:30
 					<br>
 					<b>
-						MBAPIS: Multi-Level Behavior Analysis Guided Program Interval Selection for Microarchitecture Studies
+						A Silicon Photonic Multi-DNN Accelerator
 					</b>
 					<br>
-					Hongwei Cui, Yujie Cui, Honglan Zhan, Shuhao Liang, Xianhua Liu, Chun Yang, Xu Cheng
+					Yuan Li, Ahmed Louri, Avinash Karanth
 				</li>
 				<li>
 					16:30 – 17:00
 					<br>
 					<b>
-						INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core
+						Architecture-Aware Currying
 					</b>
 					<br>
-					Jae Seok Kwak, Myung Kuk Yoon, Ipoom Jeong, Seunghyun Jin, Won Woo Ro
+					Mahmut Taylan Kandemir, Gulsum Gudukbay Akbulut, Wonil Choi, Mustafa Karakoy
+				</li>
+				<li>
+					17:00 – 17:30
+					<br>
+					<b>
+						SpecCheck: A Tool for Systematic Identification of Vulnerable Transient Execution in gem5
+					</b>
+					<br>
+					Zack McKevitt, Ashutosh Trivedi, Tamara Silbergleit Lehman
 				</li>
 			</ul>
 		</td>
@@ -516,44 +524,44 @@ show_sidebar: true
 		<td>
 			10:00
 		</td>
+       <td> SRC poster winners presentations</td>
 		<td>
-			Session: Architecture
+		</td>
+     </tr>
+	<tr>
+		<td>
+			11:00
+		</td>
+		<td>
+			Session: Optimization
+			<br>
 			<ul>
-				<li>
-					10:00 – 10:30
-					<br>
-					<b>
-						Barad-dur: Near-Storage Accelerator for Training Large Graph Neural Networks
-					</b>
-					<br>
-					Jiyoung An, Sang-Woo Jun
-				</li>
-				<li>
-					10:30 – 11:00
-					<br>
-					<b>
-						A Silicon Photonic Multi-DNN Accelerator
-					</b>
-					<br>
-					Yuan Li, Ahmed Louri, Avinash Karanth
-				</li>
 				<li>
 					11:00 – 11:30
 					<br>
 					<b>
-						Architecture-Aware Currying
+						Separating Mechanism from Policy in STM
 					</b>
 					<br>
-					Mahmut Taylan Kandemir, Gulsum Gudukbay Akbulut, Wonil Choi, Mustafa Karakoy
+					Yaodong Sheng, Ahmed Hassan, Michael Spear
 				</li>
 				<li>
 					11:30 – 12:00
 					<br>
 					<b>
-						SpecCheck: A Tool for Systematic Identification of Vulnerable Transient Execution in gem5
+						MBAPIS: Multi-Level Behavior Analysis Guided Program Interval Selection for Microarchitecture Studies
 					</b>
 					<br>
-					Zack McKevitt, Ashutosh Trivedi, Tamara Silbergleit Lehman
+					Hongwei Cui, Yujie Cui, Honglan Zhan, Shuhao Liang, Xianhua Liu, Chun Yang, Xu Cheng
+				</li>
+				<li>
+					12:00 – 12:30
+					<br>
+					<b>
+						INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core
+					</b>
+					<br>
+					Jae Seok Kwak, Myung Kuk Yoon, Ipoom Jeong, Seunghyun Jin, Won Woo Ro
 				</li>
 			</ul>
 		</td>
@@ -562,7 +570,7 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>
-			12:00
+			12:30
 		</td>
 		<td>
 			Closing

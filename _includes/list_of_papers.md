@@ -21,7 +21,7 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **G-Sparse: Compiler-Driven Acceleration for Generalized Sparse Computation for Graph Neural Networks on Modern GPUs**, Yue Jin, _Ant Group_, Heng Zhang, _Institute of Software, Chinese Academy of Sciences_, Chengying Huan, _Institute of Software, Chinese Academy of Sciences_, Yongchao Liu, _Ant Group_, Shuaiwen Leon Song, _Microsoft/University of Sydney_, Rui Zhao, _Ant Group_, Yao Zhang, _Microsoft_, Charles He, _Dipeak Ltd_, Wenguang Chen, _Ant Group_
 
-* **GraphX: Automatic Code Generation for High-Performance Graph Algorithms**, Zhen Peng, _Pacific Northwest National Laboratory_, Rizwan A. Ashraf, _Pacific Northwest National Laboratory_, Luanzheng Guo, _Pacific Northwest National Laboratory_, Ruiqin Tian, _Horizon Robotics_, Gokcen Kestor, _Pacific Northwest National Laboratory_
+* **Automatic Code Generation for High-Performance Graph Algorithms**, Zhen Peng, _Pacific Northwest National Laboratory_, Rizwan A. Ashraf, _Pacific Northwest National Laboratory_, Luanzheng Guo, _Pacific Northwest National Laboratory_, Ruiqin Tian, _Horizon Robotics_, Gokcen Kestor, _Pacific Northwest National Laboratory_
 
 * **HugeGPT: Using Huge Pages to Accelerate Address Translation for Weak Locality Data**, Yiming Du, _The University of Rhode Island_, Jiyuan Zhang, _University of Illinois Urbana-Champaign_, Weiwei Jia, _The University of Rhode Island_, Jianchen Shan, _Hofstra University_, Xiaoning Ding, _New Jersey Institute of Technology_, Tianyin Xu, _University of Illinois at Urbana-Champaign_
 
@@ -57,7 +57,7 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **A CPU-FPGA Holistic Source-To-Source Compilation Approach for Partitioning and Optimizing C/C++ Applications**, Tiago Santos, _Faculty of Engineering, University of Porto_, João M. P. Cardoso, _Faculty of Engineering, University of Porto_, João Bispo, _Faculty of Engineering, University of Porto_
 
-* **AFAIR: A Fair Spatial Scheduler for Accelerating Graph Workloads on Commodity Servers**, Lucia Pons, _Universitat Politècnica de València_, Julio Sahuquillo, _Universitat Politècnica de València_, Timothy M. Jones, _University of Cambridge_
+* **Dynamic Allocation of Processor Cores to Graph Applications on Commodity Servers**, Lucia Pons, _Universitat Politècnica de València_, Julio Sahuquillo, _Universitat Politècnica de València_, Timothy M. Jones, _University of Cambridge_
 
 * **Breaking the Complexity Barrier: Enhancing Quality of Service in Simultaneous Multithreading Processors**, Gürhan Küçük, _Yeditepe University_, Onur Demir, _Yeditepe University_, Sercan Sari, _Yeditepe University_, Yiğit Bilgin, _Yeditepe University_, Uğur Nezir, _Yeditepe University_, Mehmet Erdem Çakır, _Yeditepe University_
 
@@ -81,4 +81,4 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips**, Ismet Dagli, _Colorado School of Mines_, Mehmet Esat Belviranli, _Colorado School of Mines_
 
-* **SparseFT: Sparsity-aware Fault Tolerance for Reliable CNN Inference on GPUs**,  GwangeunByeon, _Sungkyunkwan university_, Seungtae Lee, _Sungkyunkwan university_, Seongwook Kim, _Sungkyunkwan university_, Yongjun Kim, _Sungkyunkwan university_, Prashant J. Nair, _University of British Columbia_, Seokin Hong, _Sungkyunkwan university_
+* **SparseFT: Sparsity-aware Fault Tolerance for Reliable CNN Inference on GPUs**,  GwangeunByeon, _Sungkyunkwan University_, Seungtae Lee, _Sungkyunkwan University_, Seongwook Kim, _Sungkyunkwan university_, Yongjun Kim, _Sungkyunkwan University_, Prashant J. Nair, _University of British Columbia_, Seokin Hong, _Sungkyunkwan University_
