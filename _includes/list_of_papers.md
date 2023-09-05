@@ -63,8 +63,6 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **CachedArrays: Optimizing Data Movement in ML Workloads on Heterogeneous Memory Platforms**, Mark Hildebrand, _University of California, Davis_, Jason Lowe-Power, _University of California, Davis_, Venkatesh Akella, _University of California, Davis_
 
-* **Draco: An End-to-End Design for Sparse Neural Network Acceleration with Processing-in-Memory**, Hongju Kal, _Yonsei University_, Cheonjun Park, _Yonsei University_, Hyunwuk Lee, _Yonsei University_, Jiwon Lee, _Yonsei University_, Ipoom Jeong, _University of Illinois Urbana-Champaign_, Won Woo Ro, _Yonsei University_
-
 * **QeiHaN: An Energy-Efficient DNN Accelerator that Leverages Logarithmic Quantization in Near-Data Processing Architectures**, Bahareh Khabbazan, _Polytechnic University of Catalonia, Barcelona Tech (UPC)_, Marc Riera Villanueva, _Polytechnic University of Catalonia_, Antonio Gonzalez, _Polytechnic University of Catalonia_
 
 * **Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators**, Tayyeb Mahmood, _Incheon National University_, Kashif Inayat, _Incheon National University_, Jaeyong Chung, _Incheon National University_
