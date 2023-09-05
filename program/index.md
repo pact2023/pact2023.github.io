@@ -200,8 +200,31 @@ show_sidebar: true
 					<br>
 					Hussein Elnawawy, James Tuck, Gregory Byrd
 				</li>
+			</ul>
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			14:30
+		</td>
+		<td>
+			Break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			15:00
+		</td>
+		<td>
+			<b>Session: Memory system (cont)</b>
+			<br>
+			<ul>
 				<li>
-					14:30 – 15:00
+					15:00 – 15:30
 					<br>
 					<b>
 						SDM: Sharing-enabled Disaggregated Memory System with Cache Coherent Compute Express Link
@@ -210,7 +233,7 @@ show_sidebar: true
 					Hyokeun Lee, Kwanseok Choi, Hyuk-Jae Lee, Jaewoong Sim
 				</li>
 				<li>
-					15:00 – 15:30
+					15:30 – 16:00
 					<br>
 					<b>
 						SimplePIM: A Software Framework For Productive And Efficient In-Memory Processing
@@ -219,7 +242,7 @@ show_sidebar: true
 					Jinfan Chen, Juan Gomez Luna, Izzat El Hajj, YuXin Guo, Onur Mutlu
 				</li>
 				<li>
-					15:30 – 16:00
+					15:30 – 16:30
 					<br>
 					<b>
 						Virtual PIM: Resource-aware Dynamic DPU Allocation and Workload Scheduling Framework on Multi-DPU PIM Architecture
@@ -234,7 +257,7 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>
-			16:00
+			16:30
 		</td>
 		<td>
 			Break
