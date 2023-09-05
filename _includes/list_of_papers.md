@@ -73,7 +73,7 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **SLIDEX: Sliding Window Extension for Image Processing**, Raúl Taranco, _Polytechnic University of Catalonia_, Jose Maria Arnau, _Polytechnic University of Catalonia_, Antonio Gonzalez, _Polytechnic University of Catalonia_
 
-* **SYNPA ( SYNergistic PAirs): SMT Performance Analysis and Allocation of Threads to Cores in ARM Processors**, Marta Navarro, _Universitat Politècnica de València_, Josué Feliu Pérez, _Universitat Politècnica de València_, Salvador Petit, _Universitat Politècnica de València_, Maria E. Gómez, _Universitat Politècnica de València_, Victor Lixin, _HiSilicon_, Julio Sahuquillo, _Universitat Politècnica de València_
+* **Thread-to-Core Allocation in ARM Processor Building Synergistic Pairs**, Marta Navarro, _Universitat Politècnica de València_, Josué Feliu Pérez, _Universitat Politècnica de València_, Salvador Petit, _Universitat Politècnica de València_, Maria E. Gómez, _Universitat Politècnica de València_, Victor Lixin, _HiSilicon_, Julio Sahuquillo, _Universitat Politècnica de València_
 
 * **Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips**, Ismet Dagli, _Colorado School of Mines_, Mehmet Esat Belviranli, _Colorado School of Mines_
 
