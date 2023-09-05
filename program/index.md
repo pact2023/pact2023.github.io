@@ -180,7 +180,7 @@ show_sidebar: true
  						Drishyam: An Image is Worth a Data Prefetcher
  					</b>
  					<br>
- 					hubdeep Mohapatra, Biswabandan Panda
+ 					Shubdeep Mohapatra, Biswabandan Panda
 				</li>
 				<li>
 					13:30 – 14:00
