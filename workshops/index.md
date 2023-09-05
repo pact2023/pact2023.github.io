@@ -8,9 +8,8 @@ show_sidebar: true
 
 # Tutorials/Workshops Program
 
-## Workshops
-
-* [The 3rd International Workshop on Machine Learning for Software Hardware Co-Design (MLSH'23)](https://groups.csail.mit.edu/commit/mlsh/) (Sunday October 22)
+* [Program](#program)
+* [Abstracts](#abstracts)
 
 ## Program
 
@@ -43,7 +42,9 @@ show_sidebar: true
 			full day
 		</td>
 		<td>
-			Tutorial: Core-Level Performance Engineering
+			<a href="https://go-nhr.de/CLPE">
+				Tutorial: Core-Level Performance Engineering
+			</a>
 		</td>
 		<td>
 		</td>
@@ -87,45 +88,15 @@ show_sidebar: true
 	</tr>
 </table>
 
-## Call for Workshops/Tutorials
+## Abstracts
 
-We are soliciting proposals for workshops and tutorials within [the general scope of PACT](../submit). Members of the community are encouraged to submit proposals for workshops and tutorials that bring together researchers and practitioners to share their tools, technologies, latest results and to discuss work in progress and new directions.
-Topics on distributed system innovations leveraging new device and packaging innovations, trends in heterogenous computing based on domain specific accelerators, compilation/system-management for such systems, and addressing emerging applications domains, are encouraged.
+#### [Workshop: Machine Learning for Software Hardware Co-Design (MLSH'23)](https://groups.csail.mit.edu/commit/mlsh)
 
-Those interested in organizing a workshop or tutorial are invited to contact the Workshops and Tutorials Chair [Ana Lucia Varbanescu](
-mailto:a.l.varbanescu@utwente.nl?cc=andi@complang.tuwien.ac.at;cascaval@acm.org).
-For any inquiries and submissions please include Andreas Krall (andi@complang.tuwien.ac.at) and Calin Cascaval (cascaval@acm.org) in CC.
-We will be doing rolling acceptances and encourage potential organizers to contact us as soon as possible.
+As Machine Learning (ML) continues to permeate all areas of computing, software system designers and software stack developers are adopting ML solutions and designs to solve challenging problems presented in their areas; especially in areas like optimization and hardware design. ML is increasingly being used to solve a diverse set of problems such as the design of cost models, code optimization heuristics, efficient search space exploration, automatic optimization, and program synthesis. Designing accurate machine learning models, feature engineering, verification, and validation of obtained results and selecting and curating representative training data are all examples of challenging but important problems in this area that are actively being explored by a large community of researchers in industry and academia. This workshop provides a great venue for the international research community to share ideas and techniques to apply machine learning to system challenges with a focus on the software stack and hardware. 
 
-## Important Dates
 
-* Submission deadline for workshops: July 3rd, 2023.
-* Submission deadline for tutorials: August 14st, 2023.
-* Workshop/Tutorials to be held October 21-22, 2023.
+#### [Tutorial: Core-Level Performance Engineering](https://go-nhr.de/CLPE)
 
-## Proposal Submission
+While many developers and researchers put a lot of effort into optimizing large-scale parallelism, they often neglect the importance of an efficient serial code. Even worse, slow serial code tends to scale very well, hiding the fact that resources are wasted because no definite hardware performance limit (“bottleneck”) is exhausted. This tutorial conveys the required knowledge to develop a thorough understanding of the interactions between software and hardware on the level of a single CPU core and the lowest memory hierarchy level (the L1 cache). We introduce general out-of-order core architectures and their typical performance bottlenecks using modern x86-64 (Intel Ice Lake) and ARM (Fujitsu A64FX) processors as examples. We then go into detail about x86 and AArch64 assembly code, specifically including vectorization (SIMD), pipeline utilization, critical paths, throughput prediction, and loop-carried dependencies. We also demonstrate performance analysis and performance engineering using the Open-Source Architecture Code Analyzer (OSACA) in combination with a dedicated instance of the well-known Compiler Explorer. Various hands-on exercises will allow attendees to make their own experiments and measurements and identify in-core performance bottlenecks and optimize code. Furthermore, we show real-life use cases and performance studies to emphasize how profitable in-core performance engineering can be.
 
-Proposals should be submitted to Ana Lucia Varbanescu (a.l.varbanescu@utwente.nl),
-with Andreas Krall (andi@complang.tuwien.ac.at) and Calin Cascaval (cascaval@acm.org) in CC,
-and include the following information in a PDF file (2-3 pages):
-
-### Workshop
-
-* Title, scope, format and the main topics of the workshop
-* Invited or keynote speakers (if any)
-* Panel discussion (if any)
-* Organizers' bio and affiliation, and a tentative list of PC members
-* Duration (half day / full day)
-* Expected and maximum number of participants
-* Information on past workshops on the same topic with statistics on the number of attendees/submissions
-
-### Tutorial
-
-* Title and abstract of the tutorial
-* An outline of tutorial content and objectives
-* Prerequisite knowledge
-* Special requirements (if any)
-* Organizers' bio and affiliation
-* Duration (half day / full day)
-* Expected and maximum number of participants
-* Information on past workshops on the same topic with statistics on the number of attendees/submissions
+For more information, course materials, and the schedule, see [https://go-nhr.de/CLPE]().
