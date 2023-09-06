@@ -189,7 +189,7 @@ show_sidebar: true
 						HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation
 					</b>
 					<br>
-					Yiming Du, Jiyuan Zhang, Weiwei Jia, Jianchen Shan, Xiaoning Ding, Tianyin Xu
+					Weiwei Jia, Jiyuan Zhang, Jianchen Shan, Yiming Du, Xiaoning Ding, Tianyin Xu
 				</li>
 				<li>
 					14:00 – 14:30
