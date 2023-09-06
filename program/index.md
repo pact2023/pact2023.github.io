@@ -186,7 +186,7 @@ show_sidebar: true
 					13:30 – 14:00
 					<br>
 					<b>
-						HugeGPT: Using Huge Pages to Accelerate Address Translation for Weak Locality Data
+						HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation
 					</b>
 					<br>
 					Yiming Du, Jiyuan Zhang, Weiwei Jia, Jianchen Shan, Xiaoning Ding, Tianyin Xu

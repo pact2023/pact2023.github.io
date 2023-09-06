@@ -23,7 +23,7 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **Automatic Code Generation for High-Performance Graph Algorithms**, Zhen Peng, _Pacific Northwest National Laboratory_, Rizwan A. Ashraf, _Pacific Northwest National Laboratory_, Luanzheng Guo, _Pacific Northwest National Laboratory_, Ruiqin Tian, _Horizon Robotics_, Gokcen Kestor, _Pacific Northwest National Laboratory_
 
-* **HugeGPT: Using Huge Pages to Accelerate Address Translation for Weak Locality Data**, Yiming Du, _The University of Rhode Island_, Jiyuan Zhang, _University of Illinois Urbana-Champaign_, Weiwei Jia, _The University of Rhode Island_, Jianchen Shan, _Hofstra University_, Xiaoning Ding, _New Jersey Institute of Technology_, Tianyin Xu, _University of Illinois at Urbana-Champaign_
+* **HugeGPT: Storing Guest Page Tables on Host Huge Pages to Accelerate Address Translation**, Weiwei Jia, _The University of Rhode Island_, Jiyuan Zhang, _University of Illinois Urbana-Champaign_, Jianchen Shan, _Hofstra University_, Yiming Du, _The University of Rhode Island_, Xiaoning Ding, _New Jersey Institute of Technology_, Tianyin Xu, _University of Illinois at Urbana-Champaign_
 
 * **INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core**, Jae Seok Kwak, _Yonsei University_, Myung Kuk Yoon, _Ewha Womans University_, Ipoom Jeong, _University of Illinois Urbana-Champaign_, Seunghyun Jin, _Yonsei University_, Won Woo Ro, _Yonsei University_
 
