@@ -91,7 +91,7 @@ show_sidebar: true
 			8:30
 		</td>
 		<td>
-			Keynote: Antonio Gonzales
+			Keynote: Idit Keidar, Technion - Israel Institute of Technology
 		</td>
 		<td>
 		</td>
@@ -306,7 +306,7 @@ show_sidebar: true
 			8:30
 		</td>
 		<td>
-			Keynote: TBD
+			Keynote: Antonio Gonzales, UPC Barcelona
 		</td>
 		<td>
 		</td>
@@ -528,7 +528,7 @@ show_sidebar: true
 			8:30
 		</td>
 		<td>
-			Keynote: Albert Cohen
+			Keynote: Albert Cohen, Google DeepMind
 		</td>
 		<td>
 		</td>
