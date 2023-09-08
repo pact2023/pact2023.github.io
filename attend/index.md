@@ -25,6 +25,7 @@ Rennweg 16 <br>
 Phone number: +43 120633 <br>
 
 Rooms at the venue can be booked at a reduced rate through [this link](https://reservations.travelclick.com/75044?groupID=4029480).
+Book soon, rooms are scarce.
 
 <br>
 
