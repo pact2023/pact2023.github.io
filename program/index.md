@@ -8,6 +8,12 @@ show_sidebar: true
 
 # Schedule
 
+* [Saturday, October 21, 2023](#saturday-october-21-2023)
+* [Sunday, October 22, 2023](#sunday-october-22-2023)
+* [Monday, October 23, 2023](#monday-october-23-2023)
+* [Tuesday, October 24, 2023](#tuesday-october-24-2023)
+* [Wednesday, October 25, 2023](#wednesday-october-25-2023)
+
 ### Saturday, October 21, 2023
 
 <table class="table table-striped">
