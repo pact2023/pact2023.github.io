@@ -502,9 +502,14 @@ show_sidebar: true
 			18:00
 		</td>
 		<td>
-			Conference dinner
+			<a href="/attend/#conference-dinner">
+				Conference dinner
+			</a>
 		</td>
 		<td>
+			<a href="https://www.mottoamfluss.at/en/welcome/">
+				Motto am Fluss
+			</a>
 		</td>
 	</tr>
 </table>
