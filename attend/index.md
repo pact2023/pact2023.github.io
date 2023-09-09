@@ -86,10 +86,10 @@ The conference dinner will be held at the [Motto am Fluss](https://www.mottoamfl
 The dinner venue is 2.5km (1.5 miles) walking distance from the conference venue and can be reached within 30-40 minutes.
 The [route](https://www.google.com/maps/dir/Austria+Trend+Hotel+Savoyen+Vienna,+Rennweg+16,+1030+Wien,+Austria/Johann+Strau%C3%9F+monument,+Am+Stadtpark,+Vienna,+Austria/Motto+am+Fluss,+Franz-Josefs-Kai,+Vienna,+Austria/@48.203616,16.3700027,15z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x476d077b31d0b5cf:0xbc49bc83b2c40cca!2m2!1d16.3844858!2d48.1949899!1m5!1m1!1s0x476d07767ea73855:0xd8a77c3ebe803b63!2m2!1d16.3791518!2d48.2038059!1m5!1m1!1s0x476d07a1ad85297b:0x881bc8e54edfd21f!2m2!1d16.377996!2d48.2120252!3e2) passes through the Stadtpark where you can see a monument to the famous composer Johann Strauss.
 
-The dinner venue can be reached by [public transport](https://www.google.com/maps/dir/Austria+Trend+Hotel+Savoyen+Vienna,+Rennweg+16,+1030+Wien,+Austria/Johann+Strau%C3%9F+monument,+Am+Stadtpark,+Vienna,+Austria/Motto+am+Fluss,+Franz-Josefs-Kai,+Vienna,+Austria/@48.203616,16.3700027,15z/data=!3m1!4b1!4m20!4m19!1m5!1m1!1s0x476d077b31d0b5cf:0xbc49bc83b2c40cca!2m2!1d16.3844858!2d48.1949899!1m5!1m1!1s0x476d07767ea73855:0xd8a77c3ebe803b63!2m2!1d16.3791518!2d48.2038059!1m5!1m1!1s0x476d07a1ad85297b:0x881bc8e54edfd21f!2m2!1d16.377996!2d48.2120252!3e2).
-Take the S-Bahn from Rennweg to Landstraße.
+The dinner venue can be reached by [public transport](https://www.google.com/maps/dir/Austria+Trend+Hotel+Savoyen+Vienna,+Rennweg+16,+1030+Wien,+Austria/Motto+am+Fluss,+Franz-Josefs-Kai,+Vienna,+Austria/@48.206678,16.3808107,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d077b31d0b5cf:0xbc49bc83b2c40cca!2m2!1d16.3844858!2d48.1949899!1m5!1m1!1s0x476d07a1ad85297b:0x881bc8e54edfd21f!2m2!1d16.377996!2d48.2120252!3e3).
+Take the S-Bahn from Rennweg to Wien Mitte.
 You can use any of the S-Bahn lines (S1, S2, S4, REX1, or REX3).
-At Landstraße transfer to the U4 metro line, direction Heiligenstadt, and exit at Schwedenplatz.
+At Wien Mitte transfer to the U4 metro line station Landstraße, take the train to direction Heiligenstadt, and exit at Schwedenplatz.
 
 <br>
 
