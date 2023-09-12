@@ -16,7 +16,7 @@ show_sidebar: true
 	- Due ~~August 17~~ **August 21, 2023** (AoE: UTC-12)
 	- [Submission Site](https://pact23src.hotcrp.com/)
 - Notification: September 1, 2023
-- SRC Poster Session: October 24, 2023
+- SRC Poster Session: October 23, 2023
 - SRC Finalist Presentation: October 25, 2023
 
 
