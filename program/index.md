@@ -505,7 +505,7 @@ show_sidebar: true
 	</tr>
 	<tr>
 		<td>
-			18:00
+			18:30
 		</td>
 		<td>
 			<a href="/attend/#conference-dinner">
