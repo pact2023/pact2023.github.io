@@ -27,7 +27,7 @@ Phone number: +43 120633 <br>
 
 Rooms at the venue can be booked at a reduced rate through [this link](https://reservations.travelclick.com/75044?groupID=4029480).
 <br>
-Book soon, rooms are scarce.
+Rooms are guaranteed till September 15th, afterwards limited availability, book soon.
 
 <br>
 
