@@ -312,7 +312,7 @@ show_sidebar: true
 			8:30
 		</td>
 		<td>
-			Keynote: Antonio Gonzales, UPC Barcelona
+			Keynote: Antonio Gonzalez, UPC Barcelona
 		</td>
 		<td>
 		</td>
