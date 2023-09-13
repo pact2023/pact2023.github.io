@@ -1,0 +1,27 @@
+
+<h1>Keynotes</h1>
+
+<h2><a name="keynote1">Concurrent Data Sketches</a>, Idit Keidar</h2>
+
+<p>Data sketching algorithms have become an indispensable tool for high-speed computations over massive datasets. They maintain a succinct summary of a data stream’s state and answer queries on it using limited memory, at the cost of giving approximations rather than exact answers. For example, a Θ sketch estimates the number of unique items in a data stream, the CountMin sketch approximates the frequencies at which distinct stream elements occur, and a Quantiles sketch estimates the data distribution of a large input stream.</p>
+
+<p>This talk will discuss efficient concurrent (multi-threaded) implementations of such objects.We will first present an efficient generic approach to parallelizing data sketches and allowing them to be queried in real time, while bounding the error that such parallelism introduces. When instantiated with the KMV Θ sketch sketch, this solution achieves high scalability with a small error. Its implementation is now now publicly available as part of the popular Apache Data Sketches library.</p>
+
+<p>Second, we will discuss the correctness semantics of such objects. We will define Intermediate Value Linearizability (IVL), a correctness criterion that relaxes linearizability to allow more parallelism, and yet preserves the error bounds of sequential (probabilistic) sketches. To illustrate the power of this result, we will show a straightforward and efficient concurrent implementation of a CountMin sketch, which is IVL (albeit not linearizable).</p>
+
+<p>Finally, we will consider the Quantiles sketch, which does not scale well using the generic concurrent sketches approach. We instead present Quancurrent, a highly scalable quantiles sketch.</p>
+
+<p>Based on joint works with Edward Bortnikov, Shaked Elias-Zada, Eshcar Hillel, Lee Rhodes, Arik Rinberg, Hadar Serviansky, and Alexander Spiegelman.</p>
+
+
+<i>Idit Keidar is a Chaired Professor and the current Dean of the Viterbi Faculty of Electrical and Computer Engineering at the Technion – Israeli Institute of Technology. She received her BSc (summa cum laude), MSc (summa cum laude), and PhD from the Hebrew University of Jerusalem in 1992, 1994, and 1998, respectively. Subsequently, she was a Rothschild Postdoctoral Fellow at MIT’s Laboratory for Computer Science. She was a Visiting Professor at Cornell and has consulted for several companies. Prof. Keidar has also served as the program chair for leading conferences (PODC, DISC, PPoPP, and SYSTOR). In her free time, she enjoys writing prose.</i>
+
+<p></p>
+
+<h2><a name="keynote2">TBD</a>, Antonio Gonzales</h2>
+
+<p></p>
+
+<h2><a name="keynote3">TBD</a>, TBD, Albert Cohen</h2>
+
+<p></p>

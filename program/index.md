@@ -215,7 +215,7 @@ show_sidebar: true
 			8:30
 		</td>
 		<td>
-			Keynote: Idit Keidar, Technion - Israel Institute of Technology
+			Keynote: <a href="index.html#keynote1">Concurrent Data Sketches</a>, Idit Keidar, Technion - Israel Institute of Technology
 		</td>
 		<td>
 		</td>
@@ -732,5 +732,8 @@ show_sidebar: true
 	</tr>
 </table>
 
-<br>
+<br/>
+{% include keynotes.html %}
+
+<br/>
 {% include list_of_papers.md %}
