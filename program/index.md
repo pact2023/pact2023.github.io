@@ -30,11 +30,70 @@ show_sidebar: true
 	</thead>
 	<tr>
 		<td>
+			09:00 - 10:30
 		</td>
 		<td>
-			<a href="/workshops">
-				Workshops and tutorials
-			</a>
+			<a href="/workshops">Workshops and tutorials</a> - first block
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			10:30 - 11:00
+		</td>
+		<td>
+			Coffee break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			11:00 - 12:30
+		</td>
+		<td>
+			<a href="/workshops">Workshops and tutorials</a> - second block
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			12:30 - 13:30
+		</td>
+		<td>
+			Lunch break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			13:30 - 15:00
+		</td>
+		<td>
+			<a href="/workshops">Workshops and tutorials</a> - third block
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			15:00 - 15:30
+		</td>
+		<td>
+			Coffee break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			15:30 - 17:30
+		</td>
+		<td>
+			<a href="/workshops">Workshops and tutorials</a> - last block
 		</td>
 		<td>
 		</td>
@@ -57,11 +116,70 @@ show_sidebar: true
 	</thead>
 	<tr>
 		<td>
+			09:00 - 10:30
 		</td>
 		<td>
-			<a href="/workshops">
-				Workshops and tutorials
-			</a>
+			<a href="/workshops">Workshops and tutorials</a> - first block
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			10:30 - 11:00
+		</td>
+		<td>
+			Coffee break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			11:00 - 12:30
+		</td>
+		<td>
+			<a href="/workshops">Workshops and tutorials</a> - second block
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			12:30 - 13:30
+		</td>
+		<td>
+			Lunch break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			13:30 - 15:00
+		</td>
+		<td>
+			<a href="/workshops">Workshops and tutorials</a> - third block
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			15:00 - 15:30
+		</td>
+		<td>
+			Coffee break
+		</td>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			15:30 - 17:30
+		</td>
+		<td>
+			<a href="/workshops">Workshops and tutorials</a> - last block
 		</td>
 		<td>
 		</td>
