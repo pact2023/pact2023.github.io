@@ -215,7 +215,7 @@ show_sidebar: true
 			8:30
 		</td>
 		<td>
-			Keynote: <a href="index.html#keynote1">Concurrent Data Sketches</a>, Idit Keidar, Technion - Israel Institute of Technology
+			Keynote: <a href="#keynote1">Concurrent Data Sketches</a>, Idit Keidar, Technion - Israel Institute of Technology
 		</td>
 		<td>
 		</td>
@@ -430,7 +430,7 @@ show_sidebar: true
 			8:30
 		</td>
 		<td>
-			Keynote: <a href="index.html#keynote2">Energy-Efficient GPU Architectures for Real-Time Rendering</a>, Antonio González, UPC Barcelona
+			Keynote: <a href="#keynote2">Energy-Efficient GPU Architectures for Real-Time Rendering</a>, Antonio González, UPC Barcelona
 		</td>
 		<td>
 		</td>
