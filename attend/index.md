@@ -16,6 +16,11 @@ What's on this page
 * [Travel Information](#travel-information)
 * [Visa Support Letters](#visa-support-letters)
 
+<h2 style="color: red">Warning!</h2>
+{% include scam_warning.html %}
+
+<br>
+
 ## Venue
 
 PACT 2023 will be held at the <br>
