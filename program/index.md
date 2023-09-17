@@ -519,7 +519,7 @@ show_sidebar: true
 						Accelerating Decision-Tree-based Inference through Adaptive Parallelization
 					</b>
 					<br>
-					Architecture-Aware CurryingJan van Lunteren
+					Jan van Lunteren
 				</li>
 				<li>
 					13:30 – 14:00
