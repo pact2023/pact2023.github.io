@@ -61,15 +61,11 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **Breaking the Complexity Barrier: Enhancing Quality of Service in Simultaneous Multithreading Processors**, Gürhan Küçük, _Yeditepe University_, Onur Demir, _Yeditepe University_, Sercan Sari, _Yeditepe University_, Yiğit Bilgin, _Yeditepe University_, Uğur Nezir, _Yeditepe University_, Mehmet Erdem Çakır, _Yeditepe University_
 
-* **CachedArrays: Optimizing Data Movement in ML Workloads on Heterogeneous Memory Platforms**, Mark Hildebrand, _University of California, Davis_, Jason Lowe-Power, _University of California, Davis_, Venkatesh Akella, _University of California, Davis_
-
 * **QeiHaN: An Energy-Efficient DNN Accelerator that Leverages Logarithmic Quantization in Near-Data Processing Architectures**, Bahareh Khabbazan, _Polytechnic University of Catalonia, Barcelona Tech (UPC)_, Marc Riera Villanueva, _Polytechnic University of Catalonia_, Antonio Gonzalez, _Polytechnic University of Catalonia_
 
 * **Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators**, Tayyeb Mahmood, _Incheon National University_, Kashif Inayat, _Incheon National University_, Jaeyong Chung, _Incheon National University_
 
 * **Retargeting Applications for Heterogeneous Systems with the Tribble Source-to-Source Framework**, Luís Miguel Sousa, _Faculty of Engineering, University of Porto / INESC TEC_, Nuno Paulino, _Faculty of Engineering, University of Porto / INESC TEC_, João Bispo, _Faculty of Engineering, University of Porto / INESC TEC_
-
-* **SEER: An on-node Architecture-Agnostic, Multi-Device, and Performance-Portable C++ Library for Heterogeneous Systems**, Pedro Valero-Lara, _Oak Ridge National Laboratory_, Keita Teransishi, _Oak Ridge National Laboratory_, Jeffrey S. Vetter, _Oak Ridge National Laboratory_
 
 * **SLIDEX: Sliding Window Extension for Image Processing**, Raúl Taranco, _Polytechnic University of Catalonia_, Jose Maria Arnau, _Polytechnic University of Catalonia_, Antonio Gonzalez, _Polytechnic University of Catalonia_
 
