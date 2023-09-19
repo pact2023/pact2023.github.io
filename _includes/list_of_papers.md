@@ -71,6 +71,4 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **Thread-to-Core Allocation in ARM Processors Building Synergistic Pairs**, Marta Navarro, _Universitat Politècnica de València_, Josué Feliu Pérez, _Universitat Politècnica de València_, Salvador Petit, _Universitat Politècnica de València_, Maria E. Gómez, _Universitat Politècnica de València_, Victor Lixin, _HiSilicon_, Julio Sahuquillo, _Universitat Politècnica de València_
 
-* **Shared Memory-contention-aware Concurrent DNN Execution for Diversely Heterogeneous System-on-Chips**, Ismet Dagli, _Colorado School of Mines_, Mehmet Esat Belviranli, _Colorado School of Mines_
-
 * **SparseFT: Sparsity-aware Fault Tolerance for Reliable CNN Inference on GPUs**,  GwangeunByeon, _Sungkyunkwan University_, Seungtae Lee, _Sungkyunkwan University_, Seongwook Kim, _Sungkyunkwan university_, Yongjun Kim, _Sungkyunkwan University_, Prashant J. Nair, _University of British Columbia_, Seokin Hong, _Sungkyunkwan University_
