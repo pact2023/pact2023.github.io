@@ -657,7 +657,7 @@ show_sidebar: true
 			8:30
 		</td>
 		<td>
-			Keynote: Albert Cohen, Google DeepMind
+			Keynote: <a href="#keynote3">Optimizing Compilers in an Age of Ubiquitous AI</a>, Albert Cohen, Google DeepMind
 		</td>
 		<td>
 		</td>
