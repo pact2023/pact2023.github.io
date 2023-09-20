@@ -63,7 +63,7 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **QeiHaN: An Energy-Efficient DNN Accelerator that Leverages Logarithmic Quantization in Near-Data Processing Architectures**, Bahareh Khabbazan, _Polytechnic University of Catalonia, Barcelona Tech (UPC)_, Marc Riera Villanueva, _Polytechnic University of Catalonia_, Antonio Gonzalez, _Polytechnic University of Catalonia_
 
-* **Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators**, Tayyeb Mahmood, _Incheon National University_, Kashif Inayat, _Incheon National University_, Jaeyong Chung, _Incheon National University_
+* **Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators**, Tayyeb Mahmood, _Incheon National University_, Kashif Inayat, _Barcelona Supercomputing Center_, Jaeyong Chung, _Incheon National University_
 
 * **Retargeting Applications for Heterogeneous Systems with the Tribble Source-to-Source Framework**, Luís Miguel Sousa, _Faculty of Engineering, University of Porto / INESC TEC_, Nuno Paulino, _Faculty of Engineering, University of Porto / INESC TEC_, João Bispo, _Faculty of Engineering, University of Porto / INESC TEC_
 
