@@ -543,7 +543,7 @@ show_sidebar: true
 					14:30 – 15:00
 					<br>
 					<b>
-						Minigraph: Accelerating Subgraph Enumeration Using Auxiliary Graphs
+						GraphMini: Accelerating Subgraph Enumeration Using Auxiliary Graphs
 					</b>
 					<br>
 					Juelin Liu, Sandeep Polisetty, Hui Guan, Marco Serafini

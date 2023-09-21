@@ -29,7 +29,7 @@ _This is the preliminary list of accepted papers and posters accepted at PACT 20
 
 * **MBAPIS: Multi-Level Behavior Analysis Guided Program Interval Selection for Microarchitecture Studies**, Hongwei Cui, _School of Computer Science, Peking University_, Yujie Cui, _School of Computer Science, Peking University_, Honglan Zhan, _School of Computer Science, Peking University_, Shuhao Liang, _School of Computer Science, Peking University_, Xianhua Liu, _School of Computer Science, Peking University_, Chun Yang, _School of Computer Science, Peking University_, Xu Cheng, _School of Computer Science, Peking University_
 
-* **Minigraph: Accelerating Subgraph Enumeration Using Auxiliary Graphs**, Juelin Liu, _University of Massachusetts Amherst_, Sandeep Polisetty, _University of Massachusetts Amherst_, Hui Guan, _University of Massachusetts Amherst_, Marco Serafini, _University of Massachusetts Amherst_
+* **GraphMini: Accelerating Subgraph Enumeration Using Auxiliary Graphs**, Juelin Liu, _University of Massachusetts Amherst_, Sandeep Polisetty, _University of Massachusetts Amherst_, Hui Guan, _University of Massachusetts Amherst_, Marco Serafini, _University of Massachusetts Amherst_
 
 * **Parallelizing Maximal Clique Enumeration on GPUs**, Mohammad Almasri, _University of Illinois at Urbana-Champaign_, Yen-Hsiang Chang, _University of Illinois at Urbana-Champaign_, Izzat El Hajj, _American University of Beirut_, Rakesh Nagi, _University of Illinois at Urbana-Champaign_, Jinjun Xiong, _University at Buffalo_, Wen-mei Hwu, _NVIDIA, University of Illinois at Urbana-Champaign_
 
