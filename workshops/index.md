@@ -69,6 +69,7 @@ show_sidebar: true
 	</thead>
 	<tr>
 		<td>
+			full day
 		</td>
 		<td>
 			<a href="https://groups.csail.mit.edu/commit/mlsh/">
@@ -83,7 +84,7 @@ show_sidebar: true
 			full day
 		</td>
 		<td>
-			Tutorial: SODA Synthesizer: Accelerating Data Science Applications with an end-to-end Silicon Compiler
+			<a href="https://hpc.pnl.gov/SODA/tutorials/2023/PACT.html">Tutorial: SODA Synthesizer: Accelerating Data Science Applications with an end-to-end Silicon Compiler</a>
 		</td>
 		<td>
 		</td>
@@ -113,7 +114,7 @@ While many developers and researchers put a lot of effort into optimizing large-
 For more information, course materials, and the schedule, see [https://go-nhr.de/CLPE]().
 
 
-#### Tutorial: SODA Synthesizer: Accelerating Data Science Applications with an end-to-end Silicon Compiler (Sunday)
+#### [Tutorial: SODA Synthesizer: Accelerating Data Science Applications with an end-to-end Silicon Compiler](https://hpc.pnl.gov/SODA/tutorials/2023/PACT.html) (Sunday)
 
 Data Science applications (machine learning, graph analytics) are among the main drivers for the renewed interests in designing domain specific accelerators, both for reconfigurable devices (Field Programmable Gate Arrays) and Application-Specific Integrated Circuits (ASICs).
 Today, the availability of new high-level synthesis (HLS) tools to generate accelerators starting from high-level specifications provides easier access to FPGAs or ASICs and preserves programmer productivity. However, the conventional HLS flow typically starts from languages such as C, C++, or OpenCL, heavily annotated with information to guide the hardware generation, still leaving a significant gap with respect to the (Python based) data science frameworks.
