@@ -30,7 +30,7 @@ Rennweg 16 <br>
 1030 Vienna, Austria <br>
 Phone number: +43 120633 <br>
 
-Rooms at the venue can be booked at a reduced rate through [this link](https://reservations.travelclick.com/75044?groupID=4029480).
+To book rooms at the venue please contact them via email at <a href="mailto:reservierung.savoyen@austria-trend.at">reservierung.savoyen@austria-trend.at</a>.
 <br>
 Rooms are guaranteed till September 15th, afterwards limited availability, book soon.
 
