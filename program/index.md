@@ -24,9 +24,6 @@ show_sidebar: true
 		<th>
 			What
 		</th>
-		<th>
-			Where
-		</th>
 	</thead>
 	<tr>
 		<td>
@@ -34,8 +31,6 @@ show_sidebar: true
 		</td>
 		<td>
 			<a href="/workshops">Workshops and tutorials</a> - first block
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -45,8 +40,6 @@ show_sidebar: true
 		<td>
 			Coffee break
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -54,8 +47,6 @@ show_sidebar: true
 		</td>
 		<td>
 			<a href="/workshops">Workshops and tutorials</a> - second block
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -65,8 +56,6 @@ show_sidebar: true
 		<td>
 			Lunch break
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -74,8 +63,6 @@ show_sidebar: true
 		</td>
 		<td>
 			<a href="/workshops">Workshops and tutorials</a> - third block
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -85,8 +72,6 @@ show_sidebar: true
 		<td>
 			Coffee break
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -94,8 +79,6 @@ show_sidebar: true
 		</td>
 		<td>
 			<a href="/workshops">Workshops and tutorials</a> - last block
-		</td>
-		<td>
 		</td>
 	</tr>
 </table>
@@ -110,9 +93,6 @@ show_sidebar: true
 		<th>
 			What
 		</th>
-		<th>
-			Where
-		</th>
 	</thead>
 	<tr>
 		<td>
@@ -120,8 +100,6 @@ show_sidebar: true
 		</td>
 		<td>
 			<a href="/workshops">Workshops and tutorials</a> - first block
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -131,8 +109,6 @@ show_sidebar: true
 		<td>
 			Coffee break
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -140,8 +116,6 @@ show_sidebar: true
 		</td>
 		<td>
 			<a href="/workshops">Workshops and tutorials</a> - second block
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -151,8 +125,6 @@ show_sidebar: true
 		<td>
 			Lunch break
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -160,8 +132,6 @@ show_sidebar: true
 		</td>
 		<td>
 			<a href="/workshops">Workshops and tutorials</a> - third block
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -171,8 +141,6 @@ show_sidebar: true
 		<td>
 			Coffee break
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -180,8 +148,6 @@ show_sidebar: true
 		</td>
 		<td>
 			<a href="/workshops">Workshops and tutorials</a> - last block
-		</td>
-		<td>
 		</td>
 	</tr>
 </table>
@@ -196,9 +162,6 @@ show_sidebar: true
 		<th>
 			What
 		</th>
-		<th>
-			Where
-		</th>
 	</thead>
 	<tr>
 		<td>
@@ -206,8 +169,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Opening
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -217,8 +178,6 @@ show_sidebar: true
 		<td>
 			Keynote: <a href="#keynote1">Concurrent Data Sketches</a>, Idit Keidar, Technion - Israel Institute of Technology
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -226,8 +185,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Break
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -276,8 +233,6 @@ show_sidebar: true
 				</li>
 			</ul>
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -285,8 +240,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Lunch
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -326,8 +279,6 @@ show_sidebar: true
 				</li>
 			</ul>
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -335,8 +286,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Break
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -376,8 +325,6 @@ show_sidebar: true
 				</li>
 			</ul>
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -385,8 +332,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Break
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -396,8 +341,6 @@ show_sidebar: true
 		<td>
 			Reception Poster session
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -405,8 +348,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Business meeting
-		</td>
-		<td>
 		</td>
 	</tr>
 </table>
@@ -421,9 +362,6 @@ show_sidebar: true
 		<th>
 			What
 		</th>
-		<th>
-			Where
-		</th>
 	</thead>
 	<tr>
 		<td>
@@ -432,8 +370,6 @@ show_sidebar: true
 		<td>
 			Keynote: <a href="#keynote2">Energy-Efficient GPU Architectures for Real-Time Rendering</a>, Antonio González, UPC Barcelona
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -441,8 +377,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Break
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -491,8 +425,6 @@ show_sidebar: true
 				</li>
 			</ul>
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -500,8 +432,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Lunch
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -550,8 +480,6 @@ show_sidebar: true
 				</li>
 			</ul>
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -559,8 +487,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Break
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -608,8 +534,6 @@ show_sidebar: true
 				</li>
 			</ul>
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -618,22 +542,13 @@ show_sidebar: true
 		<td>
 			Break
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
 			18:30
 		</td>
 		<td>
-			<a href="/attend/#conference-dinner">
-				Conference dinner
-			</a>
-		</td>
-		<td>
-			<a href="https://www.mottoamfluss.at/en/welcome/">
-				Motto am Fluss
-			</a>
+			<a href="/attend/#conference-dinner">Conference dinner</a> at the <a href="https://www.mottoamfluss.at/en/welcome/">Motto am Fluss</a>
 		</td>
 	</tr>
 </table>
@@ -659,8 +574,6 @@ show_sidebar: true
 		<td>
 			Keynote: <a href="#keynote3">Optimizing Compilers in an Age of Ubiquitous AI</a>, Albert Cohen, Google DeepMind
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -668,8 +581,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Break
-		</td>
-		<td>
 		</td>
 	</tr>
 	<tr>
@@ -717,8 +628,6 @@ show_sidebar: true
 				</li>
 			</ul>
 		</td>
-		<td>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -726,8 +635,6 @@ show_sidebar: true
 		</td>
 		<td>
 			Closing
-		</td>
-		<td>
 		</td>
 	</tr>
 </table>

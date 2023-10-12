@@ -37,6 +37,7 @@ show_sidebar: true
 			</a>
 		</td>
 		<td>
+			Room Turin
 		</td>
 	</tr>
 	<tr>
@@ -49,6 +50,7 @@ show_sidebar: true
 			</a>
 		</td>
 		<td>
+			Room Wien
 		</td>
 	</tr>
 </table>
@@ -77,6 +79,7 @@ show_sidebar: true
 			</a>
 		</td>
 		<td>
+			Room Turin
 		</td>
 	</tr>
 	<tr>
@@ -87,6 +90,7 @@ show_sidebar: true
 			<a href="https://hpc.pnl.gov/SODA/tutorials/2023/PACT.html">Tutorial: SODA Synthesizer: Accelerating Data Science Applications with an end-to-end Silicon Compiler</a>
 		</td>
 		<td>
+			Room Wien
 		</td>
 	</tr>
 </table>
