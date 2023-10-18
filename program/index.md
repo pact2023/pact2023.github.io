@@ -315,7 +315,7 @@ show_sidebar: true
 					Jinfan Chen, Juan Gomez Luna, Izzat El Hajj, YuXin Guo, Onur Mutlu
 				</li>
 				<li>
-					15:30 – 16:30
+					16:00 – 16:30
 					<br>
 					<b>
 						Virtual PIM: Resource-aware Dynamic DPU Allocation and Workload Scheduling Framework on Multi-DPU PIM Architecture
