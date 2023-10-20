@@ -33,6 +33,14 @@ It is right next to sights such as the
 [Belvedere palace](https://www.belvedere.at/en), a baroque, 18th-century palaces housing an art museum with a notable Klimt collection,
 and the [Botanical Garden of the University of Vienna](https://botanischergarten.univie.ac.at/en/).
 
+The botanical garden is open from **10:00-17:00**. At the far southern end of the botanical garden there
+is another entrance where you can access
+the garden of Schloss Belvedere from the botanical garden (Eingang Alpengarten). Please, note that the other gates
+open 15 minutes later and close 15 minutes earlier than the main entrance to the botanical garden.
+**Entry is free** to both the botanical garden and the garden of Schloss Belvedere. The exhibitions in the Schloss Belvedere
+require the purchase of a ticket.
+The garden of Schloss Belvedere is open from **06:30-19:00**.
+
 
 ## Public Transport in Vienna
 
@@ -41,7 +49,20 @@ Here is a [map of fast connections](https://homepage.univie.ac.at/horst.prilling
 
 The conference venue is within walking distance of the city center.
 
-There are tram and bus stops, as well as a local rail (Schnellbahn) station close to the conference venue.
+There are tram and bus stops, as well as a local rail (Schnellbahn, or S-Bahn) station close to the conference venue.
+
+You can buy tickets for the public transportion at the vending machines located at the
+ÖBB S-Bahn train station Rennweg next to the conference venue:
+* Bottom left: Choose *city tickets and more*
+* Choose *Vienna - city tickets - for trips in Vienna*
+* If you **only** want to go to Schwedenplatz then choose *VOR One-Way Ticket Vienna* (EUR 2.40) \\
+    There are also options for 24h, or 48h, or 72h tickets.
+
+At other places, e.g. metro station Schwedenplatz, you can find ticket vending machines from Wiener Linien.
+* Press *Start*
+* Bottom left: Choose *english*
+* Choose *1 trip at the full price* (EUR 2.40) \\
+    Here you also have the options for 24h, or 48h, or 72h tickets.
 
 ## From and To the Airport
 
