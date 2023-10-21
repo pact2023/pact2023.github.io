@@ -71,7 +71,7 @@ show_sidebar: true
 	</thead>
 	<tr>
 		<td>
-			full day
+			half day
 		</td>
 		<td>
 			<a href="https://groups.csail.mit.edu/commit/mlsh/">
