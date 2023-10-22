@@ -194,6 +194,8 @@ show_sidebar: true
 		<td>
 			<b>Session: Compilers</b>
 			<br>
+            <b>Chair:</b> Albert Cohen
+            <br>
 			<ul>
 				<li>
 					10:00 – 10:30
@@ -249,6 +251,8 @@ show_sidebar: true
 		<td>
 			<b>Session: Memory system</b>
 			<br>
+            <b>Chair:</b> Bernhard Egger
+            <br>
 			<ul>
 				<li>
 					13:00 – 13:30
@@ -294,6 +298,8 @@ show_sidebar: true
 		</td>
 		<td>
 			<b>Session: Memory system (cont)</b>
+			<br>
+            <b>Chair:</b> Saugata Ghose
 			<br>
 			<ul>
 				<li>
@@ -494,7 +500,8 @@ show_sidebar: true
 			15:30
 		</td>
 		<td>
-			Session: Architecture
+			<b>Session: Architecture</b>
+            <br>
 			<ul>
 				<li>
 					15:30 – 16:00
@@ -596,7 +603,7 @@ show_sidebar: true
 			11:00
 		</td>
 		<td>
-			Session: Optimization
+			<b>Session: Optimization</b>
 			<br>
 			<ul>
 				<li>
