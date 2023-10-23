@@ -506,7 +506,7 @@ show_sidebar: true
 		<td>
 			<b>Session: Architecture</b>
             <br>
-            <b>Chair:</b> TBC
+            <b>Chair:</b> Tamara Lehman
 			<br>
 			<ul>
 				<li>
