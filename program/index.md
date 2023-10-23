@@ -299,7 +299,7 @@ show_sidebar: true
 		<td>
 			<b>Session: Memory system (cont)</b>
 			<br>
-            <b>Chair:</b> Saugata Ghose
+            <b>Chair:</b> Tien-Pao Shih
 			<br>
 			<ul>
 				<li>
@@ -392,6 +392,8 @@ show_sidebar: true
 		<td>
 			Session: GPUs
 			<br>
+            <b>Chair:</b> TBC
+			<br>
 			<ul>
 				<li>
 					10:00 – 10:30
@@ -446,6 +448,8 @@ show_sidebar: true
 		</td>
 		<td>
 			Session: Algorithms
+			<br>
+            <b>Chair:</b> Michael Spear
 			<br>
 			<ul>
 				<li>
@@ -502,6 +506,8 @@ show_sidebar: true
 		<td>
 			<b>Session: Architecture</b>
             <br>
+            <b>Chair:</b> TBC
+			<br>
 			<ul>
 				<li>
 					15:30 – 16:00
