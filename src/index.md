@@ -136,7 +136,7 @@ conference-hosted SRCs.
 - Shoaib Akram (Australian National Univ.)
 - Rachata Ausavarungnirun (King Mongkut's Univ. of Technology North Bangkok)
 - Niladrish Chatterjee (NVIDIA)
-- Shuang Chen (Huwaei)
+- Shuang Chen (Huwaei Cloud)
 - Yi Ding (Purdue Univ.)
 - Aishwarya Ganesan (Univ. of Illinois Urbana-Champaign; VMware Research)
 - Sayan Ghosh (Pacific Northwest National Laboratory)
@@ -159,4 +159,12 @@ conference-hosted SRCs.
 
 ### Competition Judges
 
-- TBA
+- Pablo Abad Fidalgo (Univ. of Cantabria)
+- Li Chu (Huawei)
+- Albert Cohen (Google)
+- Josué Feliu Pérez (Univ. of Murcia)
+- Tamara Silbergleit Lehman (Univ. of Colorado Boulder)
+- Haiyu Mao (ETH Zürich)
+- Gurindar Sohi (Univ. of Wisconsin–Madison)
+- Michael Spear (Lehigh Univ.)
+- Antonino Tumeo (Pacific Northwest Nat'l. Lab)
