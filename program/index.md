@@ -392,7 +392,7 @@ show_sidebar: true
 		<td>
 			Session: GPUs
 			<br>
-            <b>Chair:</b> TBC
+            <b>Chair:</b> Gregory Byrd
 			<br>
 			<ul>
 				<li>
