@@ -611,6 +611,8 @@ show_sidebar: true
 		<td>
 			<b>Session: Optimization</b>
 			<br>
+            <b>Chair:</b> Riyadh Baghdadi
+			<br>
 			<ul>
 				<li>
 					11:00 – 11:30
